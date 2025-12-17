@@ -8,7 +8,7 @@ As a Computer Science student, I wanted to understand how websites validate user
 
 Instead of just saying "Weak" or "Strong," it gives visual feedback on what is missing (like numbers or symbols) and animates a strength bar.
 
-🔗 **[Live Demo Link Here](https://your-username.github.io/password-strength-checker/)**
+🔗 **[Live Demo Link Here](https://taneesha-516.github.io/Password-Strength-Checker/)**
 
 ## 🎯 Objectives
 *   To practice **JavaScript Event Listeners** (`keyup`, `click`).
